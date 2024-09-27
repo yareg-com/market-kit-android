@@ -9230,7 +9230,7 @@ INSERT INTO Coin VALUES('ki','KI','XKI',2396,'ki','https://assets.coingecko.com/
 INSERT INTO Coin VALUES('kubecoin','KubeCoin','KUBE',null,'kubecoin','https://assets.coingecko.com/coins/images/18668/large/KUBE.png');
 INSERT INTO Coin VALUES('label-foundation','LABEL Foundation','LBL',1812,'label-foundation','https://assets.coingecko.com/coins/images/19202/large/tele_profile_%EB%8C%80%EC%A7%80_1_-_%282%29.png');
 INSERT INTO Coin VALUES('lithosphere','Lithosphere','LITHO',null,'lithosphere','https://assets.coingecko.com/coins/images/21128/large/6gizpBLn.png');
-INSERT INTO Coin VALUES('matic-network','Polygon','MATIC',22,'matic-network','https://assets.coingecko.com/coins/images/4713/large/polygon.png');
+INSERT INTO Coin VALUES('matic-network','Polygon','POL',22,'matic-network','https://assets.coingecko.com/coins/images/4713/large/polygon.png');
 INSERT INTO Coin VALUES('magic-internet-money','Magic Internet Money','MIM',628,'magic-internet-money','https://assets.coingecko.com/coins/images/16786/large/mimlogopng.png');
 INSERT INTO Coin VALUES('loopring','Loopring','LRC',253,'loopring','https://assets.coingecko.com/coins/images/913/large/LRC.png');
 INSERT INTO Coin VALUES('maker','Maker','MKR',56,'maker','https://assets.coingecko.com/coins/images/1364/large/Mark_Maker.png');
